@@ -1,5 +1,3 @@
-#!/bin/bash
-#Hello
 **Task-0**:The `0-current_working_directory` file contains script that prints the absolute path name of the current working directory.`pwd`
 
 **Task-1**:The `1-listit` file contains the script that displays the content list of the working directory.`ls`

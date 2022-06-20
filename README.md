@@ -8,7 +8,7 @@ In this repo, you will find different programs written on System Engineering & d
 * [0x02-shell_redirections](0x02-shell_redirections)
 * [0x03-shell_variables_expansions](0x03-shell_variables_expansions)
 
-- I am commited to continuosly updating this repo with my learning progresses with hands-on projects as listed above. I believe there are more projects to come.
+- I am commited to continuosly updating this repo with my learning progresses with hands-on projects as listed above.
 
 ## Author 
 *Abdulhameed Teniola Ajani*

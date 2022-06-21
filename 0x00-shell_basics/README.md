@@ -1,7 +1,6 @@
 #  0x00. Shell, basics 
 
-In this project, I learned about compilation using `gcc`, entry
-points using `main`, and text-printing functions in C. GCC is basically a C compiler.
+In this project, I learnt about the shell, how to navigate through, how to use different command like `cd`, `pwd`, `ls`, etc. I also learnt about the `man` pages and its functions. Also, Understood the concepte of shebang and LTS
 
 ## Tasks :page_with_curl:
 

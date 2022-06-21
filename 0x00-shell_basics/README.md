@@ -1,3 +1,10 @@
+#  0x00. Shell, basics 
+
+In this project, I learned about compilation using `gcc`, entry
+points using `main`, and text-printing functions in C. GCC is basically a C compiler.
+
+## Tasks :page_with_curl:
+
 **Task-0**:The [0-current_working_directory](./0-current_working_directory) file contains script that prints the absolute path name of the current working directory.`pwd`
 
 **Task-1**:The [1-listi](./1-listi) file contains the script that displays the content list of the working directory.`ls`

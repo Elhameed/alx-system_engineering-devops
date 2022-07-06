@@ -1,3 +1,9 @@
+#  0x01. Shell, permissions 
+
+In this project, I learnt the functions of commands like `chmod`, `sudo`, `su`, `chown`, `chgrp` etc...
+
+## Tasks :page_with_curl:
+
 **Task 0**:The [0-iam_betty](./0-iam_betty) file contains a script that switches the current user to the user `betty`
 
 **Task 1**:The `1-who_am_i` file contains a script that prints the effective username of the current user.

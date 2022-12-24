@@ -42,6 +42,7 @@ frontend  ehoneah-frontend-http
 frontend ehoneah-frontend-https
 	bind *:443 ssl crt /etc/haproxy/certs/www.ehoneah.tech.pem
 	http-request set-header X-Forwarded-Proto https
+	http-request redirect scheme https code 301 unless { ssl_fc }
 	default_backend ehoneah-backend
 
 backend ehoneah-backend

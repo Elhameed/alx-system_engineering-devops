@@ -1,1 +1,1 @@
-# 0x10-https_ssl
+# Solutions to tasks on HTTPS SSL
